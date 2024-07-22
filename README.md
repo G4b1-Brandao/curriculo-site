@@ -28,6 +28,7 @@ O projeto é composto pelos seguintes arquivos e diretórios:
 
 - HTML5
 - CSS3
+- Flex-box
 
 ## Funcionalidades
 
