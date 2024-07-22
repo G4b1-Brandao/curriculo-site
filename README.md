@@ -44,7 +44,7 @@ git clone https://github.com/G4b1-Brandao/portfolio.git
 cd portfolio
 open index.html
 ```
- 
+ou pelo link https://curriculo-site-1m3y.vercel.app/
 
 ## Contato
 
